@@ -1,6 +1,6 @@
 package LinkList;
 
-public interface LinkListADt<E> {
+public interface LinkListADt<E>   {
         void add(E item);
         E remove();
         int search(E item);
