@@ -5,7 +5,7 @@ import person.Person;
 
 import java.util.Scanner;
 
-public class AddContact {
+public class   AddContact {
     public Person addContact() {
         Person client = new Person();
         Scanner tell = new Scanner(System.in);
